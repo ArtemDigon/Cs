@@ -1,0 +1,15 @@
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/bin/Debug/net7.0/zadanie_20
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/bin/Debug/net7.0/zadanie_20.deps.json
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/bin/Debug/net7.0/zadanie_20.runtimeconfig.json
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/bin/Debug/net7.0/zadanie_20.dll
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/bin/Debug/net7.0/zadanie_20.pdb
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.csproj.AssemblyReference.cache
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.AssemblyInfoInputs.cache
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.AssemblyInfo.cs
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.csproj.CoreCompileInputs.cache
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.dll
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/refint/zadanie_20.dll
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.pdb
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/zadanie_20.genruntimeconfig.cache
+/Users/artem/Cplusplus/gameDev/C#_seminar3/zadanie_20/obj/Debug/net7.0/ref/zadanie_20.dll

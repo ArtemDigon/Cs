@@ -1,0 +1,15 @@
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/bin/Debug/net7.0/zadanie_40
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/bin/Debug/net7.0/zadanie_40.deps.json
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/bin/Debug/net7.0/zadanie_40.runtimeconfig.json
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/bin/Debug/net7.0/zadanie_40.dll
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/bin/Debug/net7.0/zadanie_40.pdb
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.csproj.AssemblyReference.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.AssemblyInfoInputs.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.AssemblyInfo.cs
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.csproj.CoreCompileInputs.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.dll
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/refint/zadanie_40.dll
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.pdb
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/zadanie_40.genruntimeconfig.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_6_arr-2x/zadanie_40/obj/Debug/net7.0/ref/zadanie_40.dll

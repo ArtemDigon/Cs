@@ -1,0 +1,15 @@
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.csproj.AssemblyReference.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.AssemblyInfoInputs.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.AssemblyInfo.cs
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.csproj.CoreCompileInputs.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/bin/Debug/net7.0/lesson_4_dz
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/bin/Debug/net7.0/lesson_4_dz.deps.json
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/bin/Debug/net7.0/lesson_4_dz.runtimeconfig.json
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/bin/Debug/net7.0/lesson_4_dz.dll
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/bin/Debug/net7.0/lesson_4_dz.pdb
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.dll
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/refint/lesson_4_dz.dll
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.pdb
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/lesson_4_dz.genruntimeconfig.cache
+/Users/artem/Cplusplus/gameDev/lesson_curs_prog/lesson_4_dz/obj/Debug/net7.0/ref/lesson_4_dz.dll
